@@ -8,7 +8,8 @@
         "ME.Pools",
         "Unity.Collections",
         "Unity.Burst",
-        "Unity.Mathematics"
+        "Unity.Mathematics",
+        "ME.ECS.FilterBag"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

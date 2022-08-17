@@ -1,9 +1,12 @@
 {
   "name": "com.me.ecs.essentials.destroy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "ME.ECS Essentials Destroy",
   "description": "ME.ECS Essentials Destroy Package.",
   "unity": "2020.3",
+  "ecsdependencies": [
+    "com.me.ecs.filterbag"
+  ],
   "dependencies": {
     "com.unity.collections": "1.0.0-pre.6",
     "com.unity.ui": "1.0.0-preview.18",
